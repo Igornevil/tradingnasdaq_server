@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8de3c905.css",
+    "main.js": "/static/js/main.3ead3471.js",
+    "static/js/787.28aae34d.chunk.js": "/static/js/787.28aae34d.chunk.js",
+    "static/media/bull.jpg": "/static/media/bull.31c09785851effffb809.jpg",
+    "static/media/MC.jpg": "/static/media/MC.242712dacf962f092462.jpg",
+    "static/media/biblioteka.jpg": "/static/media/biblioteka.072ebb343f90ee8cf59c.jpg",
+    "static/media/clock.jpg": "/static/media/clock.a090169a2381313fef4f.jpg",
+    "static/media/btc-bg.jpg": "/static/media/btc-bg.4f663db19df1b84e75e4.jpg",
+    "static/media/slide4-bg.jpg": "/static/media/slide4-bg.8e191904a7074cb88adf.jpg",
+    "static/media/TT.png": "/static/media/TT.bef09888f9c8656b5d5d.png",
+    "static/media/slide4-center.jpg": "/static/media/slide4-center.bd877910c0d5f03bd08f.jpg",
+    "static/media/Education.jpg": "/static/media/Education.0f31d1a74b9384780bef.jpg",
+    "static/media/Lambo3.jpg": "/static/media/Lambo3.e6ba6d84f97e99c57cfc.jpg",
+    "static/media/G.png": "/static/media/G.6675b256a71f75638a6d.png",
+    "static/media/prop-trading-slider.jpg": "/static/media/prop-trading-slider.87ed48b6ee020c320435.jpg",
+    "static/media/brokerage-company.webp": "/static/media/brokerage-company.95c6336f7b64293a2d87.webp",
+    "static/media/I.png": "/static/media/I.8a7c7fb88d99a9b3f557.png",
+    "static/media/R.png": "/static/media/R.bececf8701fc8c8f9b8b.png",
+    "static/media/T.png": "/static/media/T.68c7e96c7aa4534d6396.png",
+    "static/media/N.png": "/static/media/N.65047c405f7f4fecb1e7.png",
+    "static/media/D.png": "/static/media/D.9f106ba8a6a1c7405f3e.png",
+    "index.html": "/index.html",
+    "main.8de3c905.css.map": "/static/css/main.8de3c905.css.map",
+    "main.3ead3471.js.map": "/static/js/main.3ead3471.js.map",
+    "787.28aae34d.chunk.js.map": "/static/js/787.28aae34d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8de3c905.css",
+    "static/js/main.3ead3471.js"
+  ]
+}
